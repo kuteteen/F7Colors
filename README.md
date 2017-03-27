@@ -7,7 +7,7 @@ first add color.js and color.html to the / of the app, next in your index.html/p
 <code><script type="text/javascript" src="color.js"></script></code>. next, we need to put color.html to your index to open. simply link <code>color.html</code> anywhere in your app. and last we need to add F7Color(); to body element, like this <code>onload="F7Color();"</code>
 and thats all! 
 ## Looking for an easier way, or new to F7?
-take my Template i made above, or checkout the live Demo at IndigoHub.cf/F7Colors
+take my Template i made above, or checkout the live Demo at devsquadinc.github.io/F7Colors
 Anyone who is using this must have the License and credit located somewhere in their application. 
 
 The MIT License (MIT)
