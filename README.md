@@ -1,4 +1,4 @@
-# Framework7-Color-System
+# F7Colors
 An open source tool for Framework7 users to change their application color at anytime, and save the color in memory.
 ## update
 A complete rebuild of color.js removing about 240 lines of code and an update to color.html to work with color.js. if you want to update, put both the html and js file in and swap with the old one's.
